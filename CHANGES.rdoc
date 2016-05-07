@@ -1,5 +1,9 @@
 = CHANGES
 
+== 0.11.2.1 (August 8th 2017)
+
+- apply ae85b4980b66b1ac0c7125946c4ca8bca712d302 to allow encoding sanitization
+
 == 0.11.2 (May 20th 2013)
 
 * FIX #1232 Padrino::Server - call expand_path on PID file option (@sshaw)
